@@ -13,12 +13,14 @@ map, a centered message, asking the user to enlarge the terminal, must be displa
 - A valid map can only contains the characters SPACE, ‘\n’, ‘#’, ‘X’, ‘O’ and ‘P’.
 - If an invalid map is supplied, the program must exit with an error.
 
-to launch:
-- make / make re
+to build:
+    
+    - make / make re
 
 USAGE
 
     ./my_sokoban map
+    
 DESCRIPTION
     
     map file representing the warehouse map, containing ‘#’ for walls, ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
