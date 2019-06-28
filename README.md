@@ -15,7 +15,7 @@ map, a centered message, asking the user to enlarge the terminal, must be displa
 
 to build:
     
-    - make / make re
+    make / make re
 
 USAGE
 
