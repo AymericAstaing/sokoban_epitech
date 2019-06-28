@@ -1,6 +1,8 @@
 # sokoban_epitech (TECH 1 2017-2018)
 
-The goal of this project is to develop a copy of this game in terminal mode, using the ncurses library.
+The goal of this project is to develop a copy of Sokoban game in terminal mode, using the ncurses library.
+
+https://fr.wikipedia.org/wiki/Sokoban
 
 - If all boxes are on storage locations, the player wins and the program must return 0.
 - Otherwise, if none of the boxes can be moved anymore, he loses and the program must return 1.
