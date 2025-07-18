@@ -1,4 +1,4 @@
-# sokoban_epitech (TECH 1 2017-2018)
+# sokoban_epitech
 
 The goal of this project is to develop a copy of Sokoban game in terminal mode, using the ncurses library.
 
@@ -24,5 +24,3 @@ USAGE
 DESCRIPTION
     
     map file representing the warehouse map, containing ‘#’ for walls, ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
-
-Aymeric Astaing - EPITECH PARIS PROMO 2022
